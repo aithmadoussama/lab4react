@@ -66,4 +66,11 @@ cd react-todo-app
      ```
   ## Captures d'ecran 
   
+  https://github.com/user-attachments/assets/89e83cb3-5f14-473e-9876-407697ad4a79
+
+  ## Auteur 
+  ```
+   Ait Hmad Oussama
+
+  ```
 
